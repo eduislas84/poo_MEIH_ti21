@@ -1,2 +1,7 @@
-# poo_MEIH_ti21
-Repositorio para almacenar las prácticas de la materia de Programación Orientada a Objetos
+# Curso de Programaación Orientada a Objetos
+
+## indice
+
+|No|Archivo|Descripsión|
+|--|--|--|
+|1.|programa0.py|Hola mundo en python|
